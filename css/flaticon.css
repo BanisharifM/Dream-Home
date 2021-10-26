@@ -1,0 +1,235 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/06/2019 07:17
+  	*/
+
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("../fonts/Flaticon.eot");
+	    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"), url("../fonts/Flaticon.woff2") format("woff2"), url("../fonts/Flaticon.woff") format("woff"), url("../fonts/Flaticon.ttf") format("truetype"), url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-style: normal;
+	}
+
+	.flaticon-plus:before {
+	    content: "\f100";
+	}
+
+	.flaticon-round-add-button:before {
+	    content: "\f101";
+	}
+
+	.flaticon-magnifying-glass:before {
+	    content: "\f102";
+	}
+
+	.flaticon-play-button:before {
+	    content: "\f103";
+	}
+
+	.flaticon-menu-1:before {
+	    content: "\f104";
+	}
+
+	.flaticon-cancel:before {
+	    content: "\f105";
+	}
+
+	.flaticon-cancel-1:before {
+	    content: "\f106";
+	}
+
+	.flaticon-compass:before {
+	    content: "\f107";
+	}
+
+	.flaticon-global:before {
+	    content: "\f108";
+	}
+
+	.flaticon-bag:before {
+	    content: "\f109";
+	}
+
+	.flaticon-arrow:before {
+	    content: "\f10a";
+	}
+
+	.flaticon-arrowhead-thin-outline-to-the-left:before {
+	    content: "\f10b";
+	}
+
+	.flaticon-phone:before {
+	    content: "\f10c";
+	}
+
+	.flaticon-mail:before {
+	    content: "\f10d";
+	}
+
+	.flaticon-sketch:before {
+	    content: "\f10e";
+	}
+
+	.flaticon-chevron:before {
+	    content: "\f10f";
+	}
+
+	.flaticon-angle-arrow-down:before {
+	    content: "\f110";
+	}
+
+	.flaticon-quote:before {
+	    content: "\f111";
+	}
+
+	.flaticon-phone-1:before {
+	    content: "\f112";
+	}
+
+	.flaticon-mail-1:before {
+	    content: "\f113";
+	}
+
+	.flaticon-triangle:before {
+	    content: "\f114";
+	}
+
+	.flaticon-expand:before {
+	    content: "\f115";
+	}
+
+	.flaticon-stair:before {
+	    content: "\f116";
+	}
+
+	.flaticon-crane:before {
+	    content: "\f117";
+	}
+
+	.flaticon-triangular:before {
+	    content: "\f118";
+	}
+
+	.flaticon-mountain:before {
+	    content: "\f119";
+	}
+
+	.flaticon-scroll:before {
+	    content: "\f11a";
+	}
+
+	.flaticon-blueprint:before {
+	    content: "\f11b";
+	}
+
+	.flaticon-comment:before {
+	    content: "\f11c";
+	}
+
+	.flaticon-shelf:before {
+	    content: "\f11d";
+	}
+
+	.flaticon-cross:before {
+	    content: "\f11e";
+	}
+
+	.flaticon-heart:before {
+	    content: "\f11f";
+	}
+
+	.flaticon-circular:before {
+	    content: "\f120";
+	}
+
+	.flaticon-ruler:before {
+	    content: "\f121";
+	}
+
+	.flaticon-menu:before {
+	    content: "\f122";
+	}
+
+	.flaticon-map:before {
+	    content: "\f123";
+	}
+
+	.flaticon-smartphone:before {
+	    content: "\f124";
+	}
+
+	.flaticon-search:before {
+	    content: "\f125";
+	}
+
+	.flaticon-watch:before {
+	    content: "\f126";
+	}
+
+	.flaticon-share:before {
+	    content: "\f127";
+	}
+
+	.flaticon-next:before {
+	    content: "\f128";
+	}
+
+	.flaticon-menu-2:before {
+	    content: "\f129";
+	}
+
+	.flaticon-multimedia:before {
+	    content: "\f12a";
+	}
+
+	.flaticon-question:before {
+	    content: "\f12b";
+	}
+
+	.flaticon-contract:before {
+	    content: "\f12c";
+	}
+
+	.flaticon-logo:before {
+	    content: "\f12d";
+	}
+
+	.flaticon-cart:before {
+	    content: "\f12e";
+	}
+
+	.flaticon-heart-1:before {
+	    content: "\f12f";
+	}
+
+	.flaticon-refresh:before {
+	    content: "\f130";
+	}
+
+	.flaticon-cross-1:before {
+	    content: "\f131";
+	}
+
+	.flaticon-speedometer:before {
+	    content: "\f132";
+	}
+
+	.flaticon-car:before {
+	    content: "\f133";
+	}
