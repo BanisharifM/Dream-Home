@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.dream-home.ir/"><img src="images/logo21.png" alt="Dream Home" width="200"></a>
+  <a href="https://www.dream-home.ir/"><img src="./images/logo-21.png" alt="Dream Home" width="200"></a>
   <br>
   Dream Home
   <br>
@@ -12,10 +12,10 @@
 
 ## Key Features
 
-- DISCOVER ANY HOUSE ANYWHERE LIMITLESS
-- VIRTUAL LIFE
-- REAL ESTATE AND INTERIOR DESIGN
-- TRY NUMEROUS DESIGNS
+- Discover any house anywhere limitless
+- Virtual life
+- Real estate and interior design
+- Try numerous designs
 
 ![OUR SPECIALIZATION](images/gallery/extra.jpg)
 
